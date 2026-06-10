@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body,#root{
+  height:100%;
+}
+
+body{
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+::selection {
+  background: rgba(251, 113, 133, 0.22);
+  color: #111827;
+}
+
+/* microphone wave animation */
+.mic-wave{
+  box-shadow: 0 0 0 rgba(251, 113, 133, 0.35);
+}
+.mic-wave.animate{
+  animation: wave 1.2s infinite;
+}
+@keyframes wave{
+  0%{ transform: scale(1); opacity: .9 }
+  50%{ transform: scale(1.25); opacity: .3 }
+  100%{ transform: scale(1); opacity: .9 }
+}
+

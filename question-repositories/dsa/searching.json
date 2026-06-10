@@ -1,0 +1,22 @@
+[
+  {"id": "search_easy_001", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "easy", "frequency": "high", "question": "What is linear search and explain its time complexity?"},
+  {"id": "search_easy_002", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "easy", "frequency": "high", "question": "What is binary search and when can it be applied?"},
+  {"id": "search_easy_003", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "easy", "frequency": "high", "question": "Explain the time complexity of binary search and why it's O(log n)."},
+  {"id": "search_easy_004", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "easy", "frequency": "medium", "question": "What is the difference between linear search and binary search?"},
+  {"id": "search_easy_005", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "easy", "frequency": "high", "question": "Write a simple linear search algorithm in pseudocode."},
+  {"id": "search_medium_006", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "medium", "frequency": "high", "question": "Write a binary search algorithm recursively."},
+  {"id": "search_medium_007", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "medium", "frequency": "high", "question": "Write a binary search algorithm iteratively."},
+  {"id": "search_medium_008", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "How do you find the first occurrence of an element in a sorted array?"},
+  {"id": "search_medium_009", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "How do you find the last occurrence of an element in a sorted array?"},
+  {"id": "search_medium_010", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "medium", "frequency": "high", "question": "Implement binary search to find a target in a rotated sorted array."},
+  {"id": "search_medium_011", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "What is interpolation search and when is it better than binary search?"},
+  {"id": "search_medium_012", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "How do you search in a 2D sorted matrix?"},
+  {"id": "search_medium_013", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "Find the floor of a given number in a sorted array using binary search."},
+  {"id": "search_medium_014", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "Find the ceiling of a given number in a sorted array using binary search."},
+  {"id": "search_hard_015", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "hard", "frequency": "medium", "question": "Search for a target value in a 2D matrix where rows and columns are sorted."},
+  {"id": "search_hard_016", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "hard", "frequency": "low", "question": "Implement ternary search algorithm and explain its use cases."},
+  {"id": "search_hard_017", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "hard", "frequency": "medium", "question": "Find the peak element in an unsorted array in O(log n) time."},
+  {"id": "search_hard_018", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "hard", "frequency": "low", "question": "Implement exponential search and explain when to use it."},
+  {"id": "search_hard_019", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "hard", "frequency": "medium", "question": "Search in an infinite sorted array efficiently."},
+  {"id": "search_hard_020", "role": "dsa", "skill": "searching", "type": "technical", "difficulty": "hard", "frequency": "low", "question": "Find the missing number in a sorted array using binary search."}
+]

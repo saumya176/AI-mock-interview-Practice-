@@ -1,0 +1,22 @@
+[
+  {"id": "sd_scale_001", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "high", "question": "What are the main bottlenecks in a scalable system?"},
+  {"id": "sd_scale_002", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "high", "question": "How do you identify performance bottlenecks in your application?"},
+  {"id": "sd_scale_003", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "high", "question": "Explain the concept of read replicas and write masters."},
+  {"id": "sd_scale_004", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "high", "question": "How would you scale a database to handle millions of reads per second?"},
+  {"id": "sd_scale_005", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "high", "question": "Design a scalable user feed system similar to Twitter or Facebook."},
+  {"id": "sd_scale_006", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "medium", "question": "Design a system to handle real-time notifications at scale."},
+  {"id": "sd_scale_007", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "medium", "question": "Design a scalable file storage system like Dropbox or Google Drive."},
+  {"id": "sd_scale_008", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "high", "question": "Design a scalable chat or messaging system."},
+  {"id": "sd_scale_009", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "medium", "question": "Design a system for handling multiple concurrent users efficiently."},
+  {"id": "sd_scale_010", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "medium", "question": "What is database indexing and how does it improve performance?"},
+  {"id": "sd_scale_011", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "high", "question": "Explain the concept of connection pooling."},
+  {"id": "sd_scale_012", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "medium", "question": "How do you handle state management in a distributed system?"},
+  {"id": "sd_scale_013", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "medium", "question": "Design a real-time analytics system that processes millions of events."},
+  {"id": "sd_scale_014", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "low", "question": "How would you design a system for video streaming at scale?"},
+  {"id": "sd_scale_015", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "medium", "question": "Design a scalable search engine indexing system."},
+  {"id": "sd_scale_016", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "medium", "question": "How do you ensure high availability in your system?"},
+  {"id": "sd_scale_017", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "medium", "question": "What is disaster recovery and how do you plan for it?"},
+  {"id": "sd_scale_018", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "medium", "frequency": "high", "question": "Explain the concept of horizontal scaling for databases."},
+  {"id": "sd_scale_019", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "medium", "question": "Design a distributed queue system for job processing."},
+  {"id": "sd_scale_020", "role": "system-design", "skill": "scalability", "type": "system-design", "difficulty": "hard", "frequency": "low", "question": "How would you handle cross-region replication and failover?"}
+]

@@ -1,0 +1,22 @@
+[
+  {"id": "hr_behavioral_001", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "easy", "frequency": "high", "question": "Tell me about yourself."},
+  {"id": "hr_behavioral_002", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "easy", "frequency": "high", "question": "Why do you want to work here?"},
+  {"id": "hr_behavioral_003", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "easy", "frequency": "high", "question": "What are your strengths?"},
+  {"id": "hr_behavioral_004", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "easy", "frequency": "high", "question": "What are your weaknesses?"},
+  {"id": "hr_behavioral_005", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "medium", "frequency": "high", "question": "Describe a challenging situation and how you handled it."},
+  {"id": "hr_behavioral_006", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "medium", "frequency": "medium", "question": "How do you handle conflict in a team?"},
+  {"id": "hr_behavioral_007", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "medium", "frequency": "medium", "question": "Give an example of when you showed leadership."},
+  {"id": "hr_behavioral_008", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "medium", "frequency": "medium", "question": "Describe a time you failed and what you learned."},
+  {"id": "hr_behavioral_009", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "medium", "frequency": "medium", "question": "How do you prioritize tasks?"},
+  {"id": "hr_behavioral_010", "role": "hr", "skill": "behavioral", "type": "behavioral", "difficulty": "medium", "frequency": "medium", "question": "Where do you see yourself in 5 years?"},
+  {"id": "hr_technical_011", "role": "hr", "skill": "technical", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "Explain your previous project experience."},
+  {"id": "hr_technical_012", "role": "hr", "skill": "technical", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "What technologies are you familiar with?"},
+  {"id": "hr_technical_013", "role": "hr", "skill": "technical", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "How do you keep up with new technologies?"},
+  {"id": "hr_technical_014", "role": "hr", "skill": "technical", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "Describe a difficult bug you fixed."},
+  {"id": "hr_technical_015", "role": "hr", "skill": "technical", "type": "technical", "difficulty": "medium", "frequency": "medium", "question": "How do you approach problem solving?"},
+  {"id": "hr_culture_016", "role": "hr", "skill": "culture", "type": "behavioral", "difficulty": "easy", "frequency": "medium", "question": "What motivates you?"},
+  {"id": "hr_culture_017", "role": "hr", "skill": "culture", "type": "behavioral", "difficulty": "easy", "frequency": "medium", "question": "How do you handle work-life balance?"},
+  {"id": "hr_culture_018", "role": "hr", "skill": "culture", "type": "behavioral", "difficulty": "easy", "frequency": "medium", "question": "Describe your ideal work environment."},
+  {"id": "hr_culture_019", "role": "hr", "skill": "culture", "type": "behavioral", "difficulty": "medium", "frequency": "medium", "question": "How do you handle feedback?"},
+  {"id": "hr_culture_020", "role": "hr", "skill": "culture", "type": "behavioral", "difficulty": "medium", "frequency": "medium", "question": "Why should we hire you?"}
+]
