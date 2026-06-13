@@ -102,3 +102,5 @@ server/          Express API
 - Configure Firebase Admin credentials on the server
 - Set `CLIENT_URL` to your frontend origin for CORS
 - Set `NODE_ENV=production` to disable dev auth fallbacks
+## Deloyment
+-https://ai-mock-interview-practice.vercel.app/
